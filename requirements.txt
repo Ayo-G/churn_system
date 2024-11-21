@@ -1,0 +1,3 @@
+-- Necessary python modules
+pandas
+pandas_gbq
